@@ -1,6 +1,6 @@
 # Visual Pollution Detection Enhancement Using YOLOv5
 
-This project focuses on **enhancing** an existing visual pollution detection system built on the YOLOv5 framework. Originally developed for the SDAIA Smartathon Visual Pollution Detection Challenge, the system identifies various types of urban visual pollution such as graffiti, potholes, damaged signage, and more from street images.
+This project focuses on enhancing an existing visual pollution detection system built on the YOLOv5 framework. Originally developed for the SDAIA Smartathon Visual Pollution Detection Challenge, the system identifies various types of urban visual pollution such as graffiti, potholes, damaged signage, and more from street images.
 
 ## Project Overview
 
